@@ -7,7 +7,7 @@
 
 ## 📸 Demo
 
-![React Expandify Demo](https://gcdnb.pbrd.co/images/LQBimtk5HHpH.gif?o=1)
+![React Expandify Demo](https://gcdnb.pbrd.co/images/FiKhccvke4GC.gif?o=1)
 
 ---
 
@@ -79,6 +79,22 @@ const MyApp = () => (
 | `onCollapse`        | `() => void`                  | -             | Callback when the content has collapsed.                |
 | `onExpand`          | `() => void`                  | -             | Callback when the content has expanded.                 |
 
+---
+
+## ✨ What You Can Create
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <h4 style="margin-top: 8px;">Accordion component</h4>
+      <img src="https://gcdnb.pbrd.co/images/LQBimtk5HHpH.gif?o=1" width="100%">
+    </td>
+    <td align="center" width="50%" valign="top">
+      <h4 style="margin-top: 8px;">Toggles</h4>
+      <img src="https://gcdnb.pbrd.co/images/FiKhccvke4GC.gif?o=1" width="100%">
+    </td>
+  </tr>
+</table>
+![React Expandify Demo](https://gcdnb.pbrd.co/images/LQBimtk5HHpH.gif?o=1)
 ---
 
 ## 🙏 Contributing

@@ -8,6 +8,7 @@
 .App {
   text-align: center;
   padding: 20px;
+  width: 600px;
 }
 
 .App-logo {
@@ -36,4 +37,18 @@ button {
 
   background: #845ec2;
   color: white;
+  margin: 20px 0px;
+}
+
+p {
+  background: #cbbcf6;
+  padding: 16px;
+  border-radius: 10px;
+}
+
+span {
+  display: block;
+  text-align: left;
+  line-height: 1.6;
+  padding: 16px 0;
 }
