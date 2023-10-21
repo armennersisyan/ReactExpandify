@@ -94,6 +94,7 @@ const MyApp = () => (
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🙏 Contributing
