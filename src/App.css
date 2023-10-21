@@ -1,0 +1,39 @@
+:root {
+  --primay: black;
+  --bg-primay: white;
+
+  --link: #2a0b0b;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+p {
+  margin: 0;
+}
+
+.header {
+  font-size: 3rem;
+}
+
+.body {
+  font-size: 0.9rem;
+}
+
+button {
+  cursor: pointer;
+  outline: none;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 35px;
+
+  background: #845ec2;
+  color: white;
+}
