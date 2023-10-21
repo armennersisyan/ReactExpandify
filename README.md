@@ -67,17 +67,17 @@ const MyApp = () => (
 
 ## 📚 Documentation
 
-| Property            | Type                          | Default       | Description                                             |
-|---------------------|-------------------------------| ------------- |---------------------------------------------------------|
-| `expanded`          | `boolean`                     | `false`       | Determines whether the content is expanded or not.      |
-| `children`          | `ReactNode`                   | -             | Children to be rendered inside the component.           |
-| `elementType`       | `keyof JSX.IntrinsicElements` | `'div'`       | The HTML element type for the Expandable component.     |
-| `expandDuration`    | `number`                      | `300`         | Duration for the expand animation in milliseconds.      |
-| `collapseDuration`  | `number`                      | `300`         | Duration for the collapse animation in milliseconds.    |
-| `easing`            | `string`                      | `ease-in-out` | Easing function for the expand and collapse animations. |
-| `className`         | `string`                      | -             | Additional className for the Expandable component.      |
-| `onCollapse`        | `() => void`                  | -             | Callback when the content has collapsed.                |
-| `onExpand`          | `() => void`                  | -             | Callback when the content has expanded.                 |
+| Property            | Type                    | Default       | Description                                             |
+|---------------------|-------------------------| ------------- |---------------------------------------------------------|
+| `expanded`          | `boolean`               | `false`       | Determines whether the content is expanded or not.      |
+| `children`          | `ReactNode`             | -             | Children to be rendered inside the component.           |
+| `elementType`       | `JSX.IntrinsicElements` | `'div'`       | The HTML element type for the Expandable component.     |
+| `expandDuration`    | `number`                | `300`         | Duration for the expand animation in milliseconds.      |
+| `collapseDuration`  | `number`                | `300`         | Duration for the collapse animation in milliseconds.    |
+| `easing`            | `string`                | `ease-in-out` | Easing function for the expand and collapse animations. |
+| `className`         | `string`                | -             | Additional className for the Expandable component.      |
+| `onCollapse`        | `() => void`            | -             | Callback when the content has collapsed.                |
+| `onExpand`          | `() => void`            | -             | Callback when the content has expanded.                 |
 
 ---
 
