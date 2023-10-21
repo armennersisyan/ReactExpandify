@@ -94,7 +94,6 @@ const MyApp = () => (
     </td>
   </tr>
 </table>
-![React Expandify Demo](https://gcdnb.pbrd.co/images/LQBimtk5HHpH.gif?o=1)
 ---
 
 ## 🙏 Contributing
