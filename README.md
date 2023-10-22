@@ -1,7 +1,6 @@
 # 🌈 React Expandify 🌈
 
 ![npm](https://img.shields.io/npm/v/react-expandify?style=for-the-badge)
-[![npm version](https://badge.fury.io/js/react-expandify.svg)](https://badge.fury.io/js/react-expandify)
 
 > **Simplifying Expand/Collapse Like Never Before. Zero Dependencies, 100% Awesomeness!**
 
