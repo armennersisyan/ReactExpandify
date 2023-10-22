@@ -2,6 +2,7 @@
 
 ![npm](https://img.shields.io/npm/v/react-expandify?style=for-the-badge)
 ![NPM Downloads](https://img.shields.io/npm/dw/react-expandify)
+[![npm version](https://img.shields.io/npm/v/react-expandify)](https://www.npmjs.com/package/react-expandify)
 
 > **Simplifying Expand/Collapse Like Never Before. Zero Dependencies, 100% Awesomeness!**
 
