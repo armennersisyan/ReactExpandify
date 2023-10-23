@@ -1,13 +1,12 @@
-# 🌈 React Expandify 🌈
+# React Expandify 🚀
+
+> **Animated, lightweight expandable components for React. No extras, just effortless expand and collapse.**
 
 ![NPM Downloads](https://img.shields.io/npm/dw/react-expandify)
 [![npm version](https://img.shields.io/npm/v/react-expandify)](https://www.npmjs.com/package/react-expandify)
 
-> **Simplifying Expand/Collapse Like Never Before. Zero Dependencies, 100% Awesomeness!**
-
 ## 📸 Demo
 
-[//]: # (![React Expandify Demo]&#40;https://gcdnb.pbrd.co/images/FiKhccvke4GC.gif?o=1&#41;)
 ![React Expandify Demo](https://gcdnb.pbrd.co/images/XstHW1V06Ciz.gif?o=1)
 
 ---
