@@ -1,6 +1,6 @@
 {
   "name": "react-expandify",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -50,11 +50,21 @@
     "type": "git",
     "url": "https://github.com/armennersisyan/ReactExpandify"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "collapse",
+    "collapsible",
+    "expand",
+    "expandable",
+    "animation",
+    "height animation",
+    "fade"
+  ],
   "author": "Armen Nersisyan",
   "bugs": {
     "url": "https://github.com/armennersisyan/ReactExpandify/issues"
   },
   "homepage": "https://github.com/armennersisyan/ReactExpandify#readme",
-  "license": "MIT"
+  "license": "MIT",
+  "files": ["dist"]
 }

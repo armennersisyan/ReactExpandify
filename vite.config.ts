@@ -18,7 +18,7 @@ export default defineConfig({
       fileName: (format) => `react-expandify.${format}.js`,
     },
     rollupOptions: {
-      external: ['react', 'react-dom'],
+      external: [],
       output: {
         globals: {
           react: 'React',
